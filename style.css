@@ -1,0 +1,28 @@
+h1{
+    color:white;
+    
+}
+img{
+    color:black;    
+    border:solid;
+    border-radius: 20px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.header{
+    background-color: black;
+}
+.diagram{
+    background-color: white;
+    display:flex;
+    flex-wrap: nowrap;
+}
+.diagrams{
+    background-color: white;
+    display:flex;
+    flex-wrap: nowrap;
+}
